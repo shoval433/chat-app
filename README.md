@@ -1,5 +1,5 @@
-
-
+chat-app
+===
 This is a code for a chat application using Flask. This code uses Python 3.8.16-slim and Flask to create a web page for a chatroom. It also uses the datetime module for time stamps. 
 
 The Flask app has two routes: one for general chat and another for specific chat rooms. It also has a route for the GET and POST of the chat messages.
